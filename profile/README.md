@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Minecraft-PC-Download/.github/main/profile/banner.jpg" alt="Minecraft for PC — Java and Bedrock" width="100%">
+<img src="https://raw.githubusercontent.com/Minecraft-PC-Download/.github/main/profile/banner-v2.jpg" alt="Minecraft for PC — Java and Bedrock" width="100%">
 
 # Minecraft for PC
 
@@ -25,9 +25,9 @@ The blocky sandbox that never left. This Windows pack includes both PC editions:
 | **Play with** | PC players | Xbox, PlayStation, Switch, mobile |
 | **Extras** | Snapshots of in-dev features | Ray tracing on RTX cards |
 
-<img src="https://raw.githubusercontent.com/Minecraft-PC-Download/.github/main/profile/preview.jpg" alt="Minecraft world on PC" width="100%">
+<img src="https://raw.githubusercontent.com/Minecraft-PC-Download/.github/main/profile/preview-v2.jpg" alt="Minecraft world on PC" width="100%">
 
-| <img src="https://raw.githubusercontent.com/Minecraft-PC-Download/.github/main/profile/shot2.jpg" alt="Minecraft survival gameplay"> | <img src="https://raw.githubusercontent.com/Minecraft-PC-Download/.github/main/profile/shot3.jpg" alt="Minecraft building and exploration"> |
+| <img src="https://raw.githubusercontent.com/Minecraft-PC-Download/.github/main/profile/shot2-v2.jpg" alt="Minecraft survival gameplay"> | <img src="https://raw.githubusercontent.com/Minecraft-PC-Download/.github/main/profile/shot3-v2.jpg" alt="Minecraft building and exploration"> |
 | :---: | :---: |
 | *Survival, your way* | *Build without limits* |
 
